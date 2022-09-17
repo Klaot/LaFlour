@@ -8,7 +8,7 @@ function Navigation() {
   return (
     <div className='container navigation'>
         <div className='logo'>
-            <img width={225} src={Logo} alt='logo'/>
+            <Link to='/'><img width={225} src={Logo} alt='logo'/></Link>
         </div>
         <nav className='navigation_links'>
           <div className='navigation_link'>

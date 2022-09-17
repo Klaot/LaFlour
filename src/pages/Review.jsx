@@ -6,7 +6,7 @@ function Review() {
     <div className='container review'>
         <Promotions />
         <div>
-            <h1>Отзывы клиентов</h1>
+            <h1>Книга отзывов</h1>
         </div>
     </div>
   )
