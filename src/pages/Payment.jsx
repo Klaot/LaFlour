@@ -12,8 +12,8 @@ function Payment() {
             <h1>Заказ, доставка и оплата</h1>
             <p>Заказать цветы вы можете в салоне, 
               <Link className='link' to='/contact'>по телефону</Link>, 
-               либо на сайте, выбрав нужный товар в 
-              <Link className='link' to='/catalog'>каталоге</Link>.</p>
+               либо на сайте, выбрав нужный товар в  
+               <Link className='link' to='/catalog'> каталоге</Link>.</p>
             <div className='payment-important'>
               <img  src={Importent} alt='Importent'/>
               <p><i>Во избежание недоразумений и ошибочной доставки просим внимательно заполнять 
