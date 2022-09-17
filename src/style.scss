@@ -96,6 +96,28 @@ h3 {
       width: 240px; 
     }
   }
+  .home-catalog {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 70%;
+    .home-items {
+      padding-top: 30px;
+    }
+    .home-header {
+    display: flex;
+    flex-direction: row;
+    margin-left: 25px;
+    h1 {
+      margin-bottom: 0;
+    }
+    img {
+      margin-top: 18px;
+      padding-left: 40px;
+    }
+  }
+  }
+  
 }
 
 
